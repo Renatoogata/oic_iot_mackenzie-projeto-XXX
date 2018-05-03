@@ -40,18 +40,9 @@ Será um dispositivo capaz de fazer a medição do nível alcoolico que uma pess
 * Produto não terá base de dados para amarzenar os dados.
 
 
-## Protótipos
 
-### Protótipos para funcionalidade 1
+### Protótipo Do Produto
 
-![](proto1.png)
+![](https://www.filipeflop.com/wp-content/uploads/2015/08/Circuito_Oled_MQ3.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
-### Protótipos para funcionalidade 2
-
-![](proto2.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade N
