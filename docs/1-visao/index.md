@@ -1,21 +1,19 @@
 # Documento de Visão do Projeto "NOME DO PROJETO"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
-apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
+Este documento apresenta uma solução de software para o projeto *"Teste de Nível Alcoolico"*, 
+Será um dispositivo capaz de fazer a medição do nível alcoolico que uma pessoa ingeriu.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Detectar quanto de porcentagem alcoolica que uma pessoa ingeriu.
+* Ver se uma pessoa está apta a dirigir.
+* Manter o transito mais seguro.
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Muitas pessoas ingerem bebidas alcoolicas e dirigem para casa depois ocasionando acidentes
+* Quem é afetado pelo problema: Pedestres e o proprio motorista/passageiro.
+* Benefícios de uma boa solução: Diminuir o indice de acidentes por ingeção de bebida alcoolica
 
 ## Definições, abreviações e outros termos do domínio do problema
 
@@ -33,30 +31,24 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Pedestres (principalmente Noturnos)
+* Policiais
+* População em geral
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Policiais
+* Fiscais de Transito
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Medir o nivel de alcool.
+* De acordo com o nivel de alcool especificar o que ele ingeriu na pratica.
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Produto não terá base de dados para amarzenar os dados.
+
 
 ## Protótipos
 
