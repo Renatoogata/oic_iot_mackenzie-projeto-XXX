@@ -1,11 +1,11 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Turma XXX
-## Projeto: "nome do projeto"
+## Projeto: "Teste de Nível Alcoolico"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
+* Renato Ide Ogata
+* Luydson Philipe
 * Aluno 3
 * Aluno 4
 * Aluno 5
