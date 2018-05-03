@@ -17,17 +17,7 @@ Será um dispositivo capaz de fazer a medição do nível alcoolico que uma pess
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
-
-## Integração com outros sistemas
-
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Controle Alcoolico
  
 ## Interessados
 
