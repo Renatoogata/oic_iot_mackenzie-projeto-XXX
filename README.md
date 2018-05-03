@@ -1,6 +1,6 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-## Turma XXX
+## Turma 05k12
 ## Projeto: "Teste de Nível Alcoolico"
 ## Integrantes do grupo:
 
